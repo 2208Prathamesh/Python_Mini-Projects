@@ -30,13 +30,13 @@ More projects will be added as the collection grows.
 **1. Clone the repository**
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/2208Prathamesh/Python_Mini-Projects.git
 ```
 
 **2. Navigate to the project folder**
 
 ```bash
-cd <YOUR_REPOSITORY_NAME>
+cd Python_Mini-Projects
 ```
 
 **3. Open the mini-project you want to run**

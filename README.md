@@ -1,80 +1,46 @@
 # 🐍 Python Mini Projects
 
-A collection of Python mini-projects built to practice programming fundamentals, explore useful libraries, and develop practical problem-solving skills. Each project focuses on a specific use case and can be explored and executed independently.
+**Ideas to code. One project at a time.**
 
-## 🚀 Projects
+A growing collection of Python mini-projects created to explore new concepts, strengthen programming skills, and turn ideas into practical applications.
 
-This repository contains multiple Python mini-projects, including utility scripts, automation tools, and small applications.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Projects">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License">
+</p>
 
-| Project | Description |
-|---|---|
-| **QR Code Generator** | Generate QR codes from text or URLs and save them as PNG images in an organized `generated_qr` folder. |
+## 📂 Project Collection
 
-More projects will be added as the collection grows.
+| # | Project | Description |
+|:---:|---|---|
+| 01 | [**QR Code Generator**](./Qr-Code-Generator) | Generate QR codes from text or URLs and save them as PNG images. |
 
-## ✨ Highlights
+*More projects coming soon.*
 
-- 📂 Multiple mini-projects organized in one repository
-- 🧩 Independent projects with their own functionality
-- 🛠️ Hands-on practice with Python and its libraries
-- 📖 Beginner-friendly code for learning and experimentation
-- 🚀 Continuously growing project collection
+## ✨ Repository Highlights
 
-## 🛠️ Requirements
+- **Hands-on Learning** — Explore Python through practical implementation.
+- **Simple & Focused** — Small projects with clear purposes.
+- **Growing Collection** — New ideas and experiments added over time.
+- **Open Source** — Available for learning, exploration, and collaboration.
 
-- Python 3.6+ *(depending on the individual project's requirements)*
-- Additional libraries may be required for specific projects.
+## 🚀 Getting Started
 
-## ⚙️ Getting Started
-
-**1. Clone the repository**
+Clone the repository to explore the projects:
 
 ```bash
 git clone https://github.com/2208Prathamesh/Python_Mini-Projects.git
-```
-
-**2. Navigate to the project folder**
-
-```bash
 cd Python_Mini-Projects
 ```
 
-**3. Open the mini-project you want to run**
+Choose a project folder and follow its setup instructions to get started.
 
-For example, to run the QR Code Generator:
+## 📄 License
 
-```bash
-pip install qrcode[pil]
-python qrcodegen.py
-```
-
-Check each project's files or instructions for its specific dependencies and execution steps.
-
-## 📁 Repository Structure
-
-```text
-Python-Mini-Projects/
-├── QR-Code-Generator/
-│   ├── qrcodegen.py
-│   └── requirements.txt
-├── Other-Projects/
-└── README.md
-```
-
-*The structure above is an example. Update it to match the actual files and folders in your repository.*
-
-## 🎯 Purpose
-
-The goal of this repository is to build a practical collection of Python projects, strengthen programming fundamentals, and experiment with different tools, libraries, and real-world use cases.
-
-## 🤝 Contributing
-
-Suggestions, improvements, and new mini-project ideas are welcome. Feel free to fork the repository and submit a pull request.
-
-## 📜 License
-
-Unless otherwise specified, projects are shared for learning and educational purposes. Add a `LICENSE` file to define the permissions for reuse and distribution.
+This repository is licensed under the [MIT License](./LICENSE).
 
 ---
 
-**Built with 🐍 Python and curiosity.**
+<p align="center">
+  <strong>Built with 🐍 Python, curiosity, and creativity.</strong>
+</p>
